@@ -17,7 +17,7 @@
         android:theme="@style/Theme.Glideavifdecoder"
         tools:targetApi="31">
         <activity
-            android:name=".sample.ImageTestActivity"
+            android:name="com.bumptech.glide.integration.avif.sample.ImageTestActivity"
             android:configChanges="keyboardHidden|orientation|screenSize|locale"
             android:exported="true"
             android:screenOrientation="portrait">

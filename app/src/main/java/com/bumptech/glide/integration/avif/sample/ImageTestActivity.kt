@@ -6,7 +6,6 @@ import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.AppCompatImageView
 import com.bumptech.glide.Glide
-import com.bumptech.glide.integration.avif.R
 
 class ImageTestActivity : AppCompatActivity() {
 

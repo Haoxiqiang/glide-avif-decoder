@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.bumptech.glide.integration.avif'
+    namespace "com.bumptech.glide.integration.avif.sample"
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.bumptech.glide.integration.avif"
+        applicationId "com.bumptech.glide.integration.avif.sample"
         minSdk 21
         targetSdk 32
         versionCode 1
