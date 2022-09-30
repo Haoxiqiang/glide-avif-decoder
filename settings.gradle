@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "glide-avif-decoder"
-include ':app'
+include ":app"
+include ":avif_decoder"

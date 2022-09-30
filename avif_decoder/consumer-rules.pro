@@ -1,7 +1,6 @@
--keep class org.aomedia.avif.android.AvifDecoder
+-keep class com.bumptech.glide.integration.avif.decoder.AvifDecoder
+-keep class com.bumptech.glide.integration.avif.decoder.AvifImage
+
 -keepclasseswithmembernames,includedescriptorclasses class * {
   native <methods>;
-}
--keep class org.aomedia.avif.android.AvifDecoder$Info {
-  *;
 }
